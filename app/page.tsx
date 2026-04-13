@@ -86,16 +86,11 @@ export default function HomePage() {
         <div className="container-shell">
           <div className="card grid gap-6 rounded-[30px] px-8 py-8 md:grid-cols-3 md:px-10">
             <div>
-              <p className="text-xs uppercase tracking-[0.24em] text-white/45">Why this works</p>
-              <p className="mt-3 text-xl font-semibold text-white">A cleaner online presence that makes booking easier.</p>
+              <p className="text-xs uppercase tracking-[0.24em] text-white/45">Precision work. Consistent Results. No shortcuts</p>
+              <p className="mt-3 text-xl font-semibold text-white">Attention to Detail</p>
             </div>
             <p className="text-white/65">
-              Strong service framing, a clearer value proposition, and one obvious call-to-book action turns a social-first
-              presence into a site that feels established and ready to convert.
-            </p>
-            <p className="text-white/65">
-              The layout is built to support phone leads, showcase the quality of work visually, and give owners a better first
-              impression before they ever text or call.
+              Every surface is treated carefully — no rushed work, no missed spots.
             </p>
           </div>
         </div>
