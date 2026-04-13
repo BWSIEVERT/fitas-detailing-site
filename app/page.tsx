@@ -82,20 +82,6 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="pb-8">
-        <div className="container-shell">
-          <div className="card grid gap-6 rounded-[30px] px-8 py-8 md:grid-cols-3 md:px-10">
-            <div>
-              <p className="text-xs uppercase tracking-[0.24em] text-white/45">Precision work. Consistent Results. No shortcuts</p>
-              <p className="mt-3 text-xl font-semibold text-white">Attention to Detail</p>
-            </div>
-            <p className="text-white/65">
-              Every surface is treated carefully — no rushed work, no missed spots.
-            </p>
-          </div>
-        </div>
-      </section>
-
       <section id="services" className="section-pad">
         <div className="container-shell">
           <div className="max-w-2xl">
